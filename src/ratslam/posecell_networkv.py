@@ -421,7 +421,7 @@ class PosecellNetwork:
     return True          
         '''
     def find_best(self):
-              
+              dddd
      dddddddddddddddddddddddd   
         xywrap = self.avg_xywrap
         thwrap = self.avg_thwrap
