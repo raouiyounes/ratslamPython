@@ -422,7 +422,7 @@ class PosecellNetwork:
         '''
     def find_best(self):
               
-        
+     dddddddddddddddddddddddd   
         xywrap = self.avg_xywrap
         thwrap = self.avg_thwrap
         self.shape = [self.PC_DIM_XY, self.PC_DIM_XY, self.PC_DIM_TH]
